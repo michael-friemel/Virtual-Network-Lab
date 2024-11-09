@@ -2,7 +2,7 @@
 
 Virtual SOC Lab for Network Security and Analysis. 
 
-## ℹ️ Objective
+## ℹ️Objective
 
 This project aims to build a secure, virtualized network environment demonstrating essential network architecture, cybersecurity, and access control skills. Simulating a real-world network setup showcases proficiency in deploying firewall rules, managing user access through Identity and Access Management (IAM), and implementing network hardening techniques to protect against potential threats.
 
