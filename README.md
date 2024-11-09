@@ -3,7 +3,14 @@ Offensive Network Intrusion, Password Cracking, and Packet Sniffing.
 
 ## Objective
 
-This project aims to design and implement a comprehensive simulation of wireless network attacks, focusing on the vulnerabilities found in Wi-Fi networks. This initiative aims to provide a practical, hands-on learning experience for cybersecurity professionals and enthusiasts, enabling them to effectively identify, mitigate, and defend against common wireless threats.
+This project illustrates the design and deployment of a secure, virtualized network lab that replicates the cybersecurity standards commonly expected in a professional environment. By implementing strong security protocols, this lab setup will demonstrate expertise in network hardening, access control, and traffic monitoring.
+
+### Key Features
+
+- Network Security and Monitoring: Configure incoming and outgoing firewall rules, set up continuous traffic monitoring, and implement intrusion detection to ensure robust protection of network assets.
+- Active Directory Integration: Set up Identity and Access Management (IAM) through Active Directory, including user and group management, strong password policies, and permissions for secure resource access.
+- File Sharing and Public Resources: Enable file-sharing capabilities (e.g., SMB or NAS) and securely host public-facing resources in a DMZ, balancing accessibility and security as guided by the CIA Triad (Confidentiality, Integrity, Availability).
+- Platform Flexibility: Lab creation will emulate real-world Cisco Packet Tracer solutions.
 
 ### Skills Learned
 
@@ -25,3 +32,4 @@ This project aims to design and implement a comprehensive simulation of wireless
 ## Steps
 <!-- drag & drop screenshots here or use imgur and reference them using imgsrc -->
 <!-- Every screenshot should have some text explaining what the screenshot is about. -->
+Install and set up applications. Here I am installing 
