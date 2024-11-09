@@ -11,9 +11,9 @@ This project aims to illustrate practical experience in creating and managing a 
 ### Key Features
 
 - <b>Network Security and Monitoring:</b> Configure incoming and outgoing firewall rules, set up continuous traffic monitoring, and implement intrusion detection to ensure robust protection of network assets.
-- Active Directory Integration: Set up Identity and Access Management (IAM) through Active Directory, including user and group management, strong password policies, and permissions for secure resource access.
-- File Sharing and Public Resources: Enable file-sharing capabilities (e.g., SMB or NAS) and securely host public-facing resources in a DMZ, balancing accessibility and security as guided by the CIA Triad (Confidentiality, Integrity, Availability).
-- Platform Flexibility: Lab creation will emulate real-world Cisco Packet Tracer solutions.
+- <b>Active Directory Integration:</b> Set up Identity and Access Management (IAM) through Active Directory, including user and group management, strong password policies, and permissions for secure resource access.
+- <b>File Sharing and Public Resources:</b> Enable file-sharing capabilities (e.g., SMB or NAS) and securely host public-facing resources in a DMZ, balancing accessibility and security as guided by the CIA Triad (Confidentiality, Integrity, Availability).
+- <b>Platform Flexibility:</b> Lab creation will emulate real-world Cisco Packet Tracer solutions.
 
 ### Skills Learned
 
