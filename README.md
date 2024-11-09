@@ -1,10 +1,10 @@
 # Virtual Network Lab
 
-Network Security | Access Control | Intrusion Detection | Firewall Configuration | Identity and Access Management (IAM) | Network Hardening | Active Directory | Virtual Lab
+Virtual SOC Lab for Network Security and Analysis. 
 
 ## Objective
 
-This project aims to build a secure, virtualized network environment demonstrating essential network architecture, cybersecurity, and access control skills. By simulating a real-world network setup, this project showcases proficiency in deploying firewall rules, managing user access through Identity and Access Management (IAM), and implementing network hardening techniques to protect against potential threats.
+This project aims to build a secure, virtualized network environment that demonstrates essential network architecture, cybersecurity, and access control skills. By simulating a real-world network setup, it showcases proficiency in deploying firewall rules, managing user access through Identity and Access Management (IAM), and implementing network hardening techniques to protect against potential threats.
 
 This project aims to illustrate practical experience in creating and managing a secure, adaptable network that meets the security and accessibility needs expected in a professional IT environment.
 
@@ -35,3 +35,8 @@ This project aims to illustrate practical experience in creating and managing a 
 ## Steps
 <!-- drag & drop screenshots here or use imgur and reference them using imgsrc -->
 <!-- Every screenshot should have some text explaining what the screenshot is about. -->
+1. Set Up the Virtual Lab Environment
+2. Configure VMs and Network Components
+3. Simulate Network Traffic and Capturing with Wireshark
+4. Use PowerShell for SOC Tasks
+5. Intrusion Detection and Response with Snort
