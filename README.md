@@ -8,7 +8,7 @@ This project aims to build a secure, virtualized network environment demonstrati
 
 This project aims to illustrate practical experience in creating and managing a secure, adaptable network that meets the security and accessibility needs expected in a professional IT environment.
 
-### Key Features
+### 🔑Key Features
 
 - <b>Network Security and Monitoring:</b> Configure incoming and outgoing firewall rules, set up continuous traffic monitoring, and implement intrusion detection to ensure robust protection of network assets.
   
@@ -18,7 +18,7 @@ This project aims to illustrate practical experience in creating and managing a 
   
 - <b>Platform Flexibility:</b> Lab creation will emulate real-world Cisco Packet Tracer solutions.
 
-### Skills Learned
+### 🖥️Skills Learned
 
 - Planning and deploying a network architecture 
 - Traffic monitoring 
@@ -26,7 +26,7 @@ This project aims to illustrate practical experience in creating and managing a 
 - Setting up and managing IAM (Identity and Access Management), including users and groups in Active Directory 
 - Network hardening techniques
 
-### Tools Used
+### 🛠️Tools Used
 
 - Active Directory
 - Cisco Packet Tracer for network simulation
@@ -35,5 +35,9 @@ This project aims to illustrate practical experience in creating and managing a 
 - Snort for intrusion detection
 - PowerShell for scripting and automation
 
-## Steps
+## ✅Steps
 
+- Set Up Lab Environment
+- Configure VMs and Network
+- Simulate Network Traffic and Capture with Wireshark
+- Use PowerShell for SOC Tasks
