@@ -37,27 +37,3 @@ This project aims to illustrate practical experience in creating and managing a 
 
 ## Steps
 
-SOC-Analyst-Virtual-Lab/
-│
-├── README.md
-├── LabSetup/
-│   ├── AD_Setup_Instructions.md
-│   ├── pfSense_Configuration_Guide.md
-│   ├── Snort_Setup_Guide.md
-│   └── Cisco_Packet_Tracer_Topology.pkt
-│
-├── Captures/
-│   ├── Normal_Traffic.pcap
-│   ├── Port_Scan_Traffic.pcap
-│   └── Brute_Force_Attempt.pcap
-│
-├── Reports/
-│   ├── Traffic_Analysis_Report.md
-│   ├── Firewall_Rule_Config.md
-│   └── Intrusion_Alert_Report.md
-│
-└── Scripts/
-    ├── PowerShell_Security_Audit.ps1
-    ├── Custom_Wireshark_Filters.txt
-    └── Snort_Rules_Config.txt
-
