@@ -1,5 +1,6 @@
 # Virtual Network Lab
-Offensive Network Intrusion, Password Cracking, and Packet Sniffing.
+
+Network Architecture | Cybersecurity | Access Control | Firewall Configuration | Intrusion Detection | Active Directory | Identity and Access Management (IAM) | Traffic Analysis | Network Hardening | Virtual Lab | CIA Triad | Threat Mitigation | Secure File Sharing | DMZ Configuration | Cloud Networking | GNS3 & Cisco Packet Tracer | AWS Virtual Network
 
 ## Objective
 
