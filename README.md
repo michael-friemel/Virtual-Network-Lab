@@ -15,6 +15,13 @@ This project aims to design and implement a comprehensive simulation of wireless
 
 ### Tools Used
 
+- Active Directory
+- Cisco Packet Tracer for network simulation
+- Wireshark for traffic analysis
+- pfSense as a firewall
+- Snort for intrusion detection
+- PowerShell for scripting and automation
+
 ## Steps
 <!-- drag & drop screenshots here or use imgur and reference them using imgsrc -->
 <!-- Every screenshot should have some text explaining what the screenshot is about. -->
