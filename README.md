@@ -38,8 +38,8 @@ This project aims to illustrate practical experience in creating and managing a 
 ## Steps
 <!-- drag & drop screenshots here or use imgur and reference them using imgsrc -->
 <!-- Every screenshot should have some text explaining what the screenshot is about. -->
-1. Set Up the Virtual Lab Environment
-2. Configure VMs and Network Components
-3. Simulate Network Traffic and Capturing with Wireshark
-4. Use PowerShell for SOC Tasks
-5. Intrusion Detection and Response with Snort
+- Set Up the Virtual Lab Environment
+- Configure VMs and Network Components
+- Simulate Network Traffic and Capture with Wireshark
+- Use PowerShell for SOC Tasks
+- Intrusion Detection and Response with Snort
