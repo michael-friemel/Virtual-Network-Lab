@@ -36,10 +36,28 @@ This project aims to illustrate practical experience in creating and managing a 
 - PowerShell for scripting and automation
 
 ## Steps
-<!-- drag & drop screenshots here or use imgur and reference them using imgsrc -->
-<!-- Every screenshot should have some text explaining what the screenshot is about. -->
-- Set Up the Virtual Lab Environment
-- Configure VMs and Network Components
-- Simulate Network Traffic and Capture with Wireshark
-- Use PowerShell for SOC Tasks
-- Intrusion Detection and Response with Snort
+
+SOC-Analyst-Virtual-Lab/
+│
+├── README.md
+├── LabSetup/
+│   ├── AD_Setup_Instructions.md
+│   ├── pfSense_Configuration_Guide.md
+│   ├── Snort_Setup_Guide.md
+│   └── Cisco_Packet_Tracer_Topology.pkt
+│
+├── Captures/
+│   ├── Normal_Traffic.pcap
+│   ├── Port_Scan_Traffic.pcap
+│   └── Brute_Force_Attempt.pcap
+│
+├── Reports/
+│   ├── Traffic_Analysis_Report.md
+│   ├── Firewall_Rule_Config.md
+│   └── Intrusion_Alert_Report.md
+│
+└── Scripts/
+    ├── PowerShell_Security_Audit.ps1
+    ├── Custom_Wireshark_Filters.txt
+    └── Snort_Rules_Config.txt
+
