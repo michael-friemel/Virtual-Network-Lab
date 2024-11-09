@@ -1,10 +1,10 @@
 # Virtual Network Lab
 
-Network Architecture | Cybersecurity | Access Control | Firewall Configuration | Intrusion Detection | Active Directory | Identity and Access Management (IAM) | Traffic Analysis | Network Hardening | Virtual Lab | CIA Triad | Threat Mitigation | Secure File Sharing | DMZ Configuration | Cloud Networking | GNS3 & Cisco Packet Tracer | AWS Virtual Network
+Network Security | Access Control | Intrusion Detection | Firewall Configuration | Identity and Access Management (IAM) | Network Hardening | Active Directory | Virtual Lab
 
 ## Objective
 
-This project illustrates the design and deployment of a secure, virtualized network lab that replicates the cybersecurity standards commonly expected in a professional environment. By implementing strong security protocols, this lab setup will demonstrate expertise in network hardening, access control, and traffic monitoring.
+This project illustrates the design and deployment of a secure, virtualized network lab replicating the cybersecurity standards commonly expected in a professional environment. By implementing strong security protocols, this lab setup will demonstrate expertise in network hardening, access control, and traffic monitoring.
 
 ### Key Features
 
