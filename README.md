@@ -4,7 +4,9 @@ Network Security | Access Control | Intrusion Detection | Firewall Configuration
 
 ## Objective
 
-This project illustrates the design and deployment of a secure, virtualized network lab replicating the cybersecurity standards commonly expected in a professional environment. By implementing strong security protocols, this lab setup will demonstrate expertise in network hardening, access control, and traffic monitoring.
+This project aims to build a secure, virtualized network environment that demonstrates essential network architecture, cybersecurity, and access control skills. By simulating a real-world network setup, this project showcases proficiency in deploying firewall rules, managing user access through Identity and Access Management (IAM), and implementing network hardening techniques to protect against potential threats.
+
+Through this project, the goal is to illustrate practical experience in creating and managing a secure, adaptable network that meets the security and accessibility needs expected in a professional IT environment.
 
 ### Key Features
 
